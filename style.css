@@ -1,0 +1,55 @@
+body {
+    background-color: #e5e5e5;
+}
+header{
+  background-color: #562eff;
+}
+.navbar{
+  max-width: 870px;
+}
+.navbar img{
+  width: 40px;
+}
+main{
+  max-width: 870px;
+}
+h3{
+  color: #562eff;
+}
+.player img{
+  width: 56px;
+}
+p span{
+  color: #562eff;
+}
+.mt-n1 {
+  margin-top: -0.25rem;
+}
+.course{
+  max-width: 870px;
+}
+a{
+  cursor: pointer;
+}
+.card{
+  border-radius: 9px;
+  border: none;
+}
+.card p{
+  color: #F83E77;
+}
+.card-body img{
+  width: 18px;
+}
+.rounded-pill{
+  background-color: #FF004E59;
+  color: #F83E77;
+}
+.single-blog{
+  margin-bottom:25px;
+  transition: 0.2s;
+  border-radius: 9px;
+}
+.single-blog:hover{
+  box-shadow: 5px 5px 5px #C3C3C3;
+}
