@@ -25,7 +25,7 @@ p span{
 .mt-n1 {
   margin-top: -0.25rem;
 }
-.course{
+.course, .footer-size{
   max-width: 870px;
 }
 a{
@@ -44,7 +44,7 @@ a{
 .rounded-pill{
   background-color: #FF004E59;
   color: #F83E77;
-}
+};
 .single-blog{
   margin-bottom:25px;
   transition: 0.2s;
@@ -52,4 +52,18 @@ a{
 }
 .single-blog:hover{
   box-shadow: 5px 5px 5px #C3C3C3;
+}
+.subscribe{
+  border: 2px solid #ff004E59;
+  padding: 2px 5px;
+  border-radius: 5px;
+  outline: none;
+  color: #F83E77;
+}
+.subscribe-button{
+  background: #ff004E59;
+  color: #F83E77;
+  
+  outline: none;
+  border: none;
 }
